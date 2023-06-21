@@ -1,0 +1,7 @@
+{
+  "name": "Onapi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
